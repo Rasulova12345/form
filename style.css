@@ -1,0 +1,41 @@
+.label1{
+    color:yellow;
+    text-transform: uppercase;
+
+}
+.label2{
+    color:yellow; text-transform: uppercase;
+}
+.label3{
+    color: yellow;
+    text-transform: uppercase;
+
+}
+.label4{
+    color:yellow; 
+    text-transform: uppercase;
+
+}
+.label5{
+    color:yellow; text-transform: uppercase;
+}
+h1{
+    background-color: chocolate;
+     text-transform: uppercase; 
+    text-align: center;
+}
+button{
+ text-align: center;
+    background-color: green;
+    border-radius: 30px; 
+}
+input{border-radius: 30px;
+    text-align: center;
+    border: slategray;
+}
+form{
+    text-align: center;
+}
+img{
+ text-align: ;
+}
